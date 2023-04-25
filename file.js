@@ -15,3 +15,4 @@ const promise1 = Promise.resolve(2)
   .then((res) => res * 3);
 
 //f1
+//f2
