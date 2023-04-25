@@ -9,7 +9,6 @@
 //   }
 // }
 //dfbfdndn
-//m3
 
 const promise1 = Promise.resolve(2)
   .then((res) => res * 2)
